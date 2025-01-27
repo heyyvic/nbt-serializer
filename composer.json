@@ -1,9 +1,9 @@
 {
-  "name": "presentkim/nbt-serializer",
+  "name": "victualler/nbt-serializer",
   "description": "Provides util class for (de)serialize nbt tag more shorter and easier for PocketMine-MP",
   "type": "library",
   "license": "MIT",
-  "require": {
+  "require-dev": {
     "pocketmine/pocketmine-mp": "^5.0.0"
   },
   "autoload": {
